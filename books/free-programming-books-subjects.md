@@ -20,6 +20,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Containers](#containers)
 * [Data Science](#data-science)
 * [Database](#database)
+* [Embedded Systems](#embedded-systems)
 * [Game Development](#game-development)
 * [Graphical user interfaces](#graphical-user-interfaces)
 * [Graphics Programming](#graphics-programming)
@@ -296,6 +297,16 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Theory of Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 
+### Embedded Systems
+
+* [Control and Embedded Systems](http://www.learn-c.com) (HTML)
+* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+* [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
+* [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
+* [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
+* [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
+
+
 ### Game Development
 
 * [2D Game Development: From Zero To Hero](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
@@ -548,6 +559,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
+* [Proofs and Types](https://www.paultaylor.eu/stable/Proofs+Types) - Jean-Yves Girard, Yves Lafont, Paul Taylor
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)
 * [Sage for Undergraduates](http://www.gregorybard.com/books.html) - Gregory Bard
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
